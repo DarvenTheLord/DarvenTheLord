@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**DarvenTheLord/DarvenTheLord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Hi, I’m Darven
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 🌱 I’m currently learning **Cybersecurity & Ethical Hacking**
+- 🔭 I’m working on **open-source security tools**
+- 🎯 Goal: Become a prhofessional **Cybersecurity Analyst / Ethical Hacker**
+- ⚡ Fun fact: I love wizardry + hacking themes ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, C, JavaScript  
+- **Cybersecurity Tools:** Nmap, Wireshark, Burp Suite  
+- **Other:** Linux, Git, Bash scripting  
+
+
